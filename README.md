@@ -40,7 +40,7 @@
 
 ## Let's Connect!
 
-I'm excited to work on new projects and contribute to a dynamic team. If you have any opportunities, or project ideas, or just want to say hello, feel free to [reach out to me via email](shapirotehila@gmail.com)
+I'm excited to work on new projects and contribute to a dynamic team. If you have any opportunities, or project ideas, or just want to say hello, feel free to [reach out to me via email](mailto:shapirotehila@gmail.com)
 
 Looking forward to collaborating with you!
 
