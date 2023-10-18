@@ -2,6 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-1f425f.svg?style=for-the-badge)](https://tehila-portfolio-7500d2d37584.herokuapp.com/)
 
+
 ## Technologies & Tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -22,6 +23,7 @@
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
+
 ## Skills & Expertise
 
 - **Front-end Development**: Creating interactive user interfaces using modern HTML, CSS, and JavaScript. Proficient in React and Redux for state management.
@@ -34,9 +36,11 @@
 
 - **Testing**: Writing and executing unit tests to ensure code reliability and functionality.
 
+
 ## Projects
 
 - *This section is a work in progress.* 
+
 
 ## Let's Connect!
 
